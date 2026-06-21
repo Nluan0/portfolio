@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1500&color=FFD700&center=true&vCenter=true&width=700&lines=Automacao+%7C+Dados+%7C+Web+%7C+Desktop;Python+%7C+JavaScript+%7C+React+%7C+Tkinter;Sempre+construindo+algo+novo+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1500&color=FFD700&center=true&vCenter=true&width=700&lines=Full+Stack+%7C+Automacao+%7C+Web;Python+%7C+JavaScript+%7C+React+%7C+PHP+%7C+SQL;Sempre+construindo+algo+novo+%F0%9F%9A%80" />
 </div>
 
 ---
@@ -13,7 +13,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=2000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Tenho+20+anos+e+atuo+como+Analista;Foco+em+automacao%2C+dashboards+e+dados;Curso+Analise+e+Desenvolvimento+de+Sistemas;Evoluindo+em+Python%2C+JS%2C+HTML%2C+CSS+e+C" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=2000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Tenho+21+anos+e+sou+Dev+Full+Stack;Foco+em+desenvolvimento+web+e+automacao;Curso+Analise+e+Desenvolvimento+de+Sistemas;Evoluindo+em+Python%2C+JS%2C+React%2C+PHP+e+SQL" />
 </div>
 
 ---
@@ -25,11 +25,13 @@
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 
 </div>
@@ -85,7 +87,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1500&color=00F7FF&center=true&vCenter=true&width=700&lines=%F0%9F%93%88+Automacao+Financeira" />
 </div>
 
-> Script que coleta cotações de ações e criptomoedas no Google Finance via Selenium e envia os dados para o Google Sheets em tempo real.
+> Script que coleta cotações de ações e criptomoedas automaticamente via Selenium e registra os dados em tempo real no Google Sheets, criando uma aba nova por dia para histórico organizado.
 
 | | |
 |---|---|
@@ -98,9 +100,9 @@
 
 **Funcionalidades:**
 - Coleta automática de preços via Selenium
-- Envia os dados direto para o Google Sheets
-- Cria uma aba nova por dia automaticamente
-- Registra o horário de cada coleta
+- Integração com Google Sheets API para envio dos dados
+- Criação automática de aba nova por dia
+- Registro do horário de cada coleta
 
 ---
 
@@ -108,18 +110,21 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1500&color=00F7FF&center=true&vCenter=true&width=700&lines=%F0%9F%8E%AE+Mario+Jump" />
 </div>
 
-> Jogo desenvolvido com HTML, CSS e JavaScript puro. Desvie dos canos pulando com qualquer tecla do teclado!
+> Jogo de plataforma estilo Mario desenvolvido do zero com HTML, CSS e JavaScript puro — sem frameworks ou bibliotecas. Desvie dos canos pulando com qualquer tecla!
 
 | | |
 |---|---|
+| 🕹️ **Jogar** | [nluan0.github.io/mario-jump](https://nluan0.github.io/mario-jump) |
 | 📁 **Repositório** | [github.com/Nluan0/mario-jump](https://github.com/Nluan0/mario-jump) |
 | 🛠️ **Tecnologias** | HTML5, CSS3, JavaScript |
 
 **Funcionalidades:**
-- Animação do Mario correndo
-- Cano se movendo automaticamente
-- Detecção de colisão com game over
-- Cenário animado com nuvens
+- Animação do Mario correndo e pulando
+- Cano se movendo com velocidade progressiva
+- Contador de pontos em tempo real
+- Dificuldade aumenta a cada 10 pontos
+- Detecção de colisão com game over e restart
+- Suporte a teclado e toque (mobile)
 
 ---
 
